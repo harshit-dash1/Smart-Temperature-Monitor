@@ -1,0 +1,11 @@
+# capstone-temp-monitor build artifacts
+driver/*.ko
+driver/*.o
+driver/*.mod
+driver/*.mod.c
+driver/*.mod.o
+driver/.tempsensor*
+driver/modules.order
+driver/Module.symvers
+app/temp_monitor
+
